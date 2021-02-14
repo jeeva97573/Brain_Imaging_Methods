@@ -1,5 +1,5 @@
 ### image processing codes python 
-
+#:/usr/bin/python
 # import statement blocks 
 
 import matplotlib.pyplot as plt
